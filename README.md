@@ -42,5 +42,6 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 
 **RESULT**
+
 Hence we can implement D flipflop using verilog and validating their functionality using their functional tables.
 
