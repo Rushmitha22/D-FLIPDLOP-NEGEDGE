@@ -49,7 +49,8 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 ### RTL OUTPUT:
 
 
-![d ff waveform](https://github.com/user-attachments/assets/d637b029-7094-4503-9d04-d79cf6dcc536)
+![d wave](https://github.com/user-attachments/assets/0f6a4408-94b0-4833-b1f8-f8e5e4e6e8fd)
+
 
 
 
